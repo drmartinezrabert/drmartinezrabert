@@ -3,7 +3,7 @@
 CNRS Research Associate (Postdoc) at Mediterranean Institute of Oceanography (MIO), Marseille</p>
 
 <p><img width="206" height="20" alt="download" src="https://github.com/user-attachments/assets/f6497ee0-799c-433d-958b-a575a5052749" />
-<svg xmlns="http://www.w3.org/2000/svg" width="206" height="20" role="img" aria-label="main languagues: python, MATLAB"><filter id="blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="206" height="20" rx="3"/></clipPath><g clip-path="url(#r)"><rect width="105" height="20" fill="#555"/><rect x="105" width="101" height="20" fill="#4b0"/><rect width="206" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="20" role="img" aria-label="main languagues: Python, MATLAB"><filter id="blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="206" height="20" rx="3"/></clipPath></svg>
 </p>
 
 <b>> Research interests:</b>
