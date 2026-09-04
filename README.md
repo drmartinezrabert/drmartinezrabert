@@ -6,14 +6,14 @@ CNRS Research Associate (Postdoc) at Mediterranean Institute of Oceanography (MI
 <svg xmlns="http://www.w3.org/2000/svg" width="206" height="20" role="img" aria-label="main languagues: Python, MATLAB"><filter id="blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="206" height="20" rx="3"/></clipPath></svg>
 </p>
 
-<b>> Research interests:</b>
-- Microbial ecology
-- Theoretical modelling
-- Thermodynamics
-- Bioenergetics
-- <i>In-silico</i> bottom-up method
+<p><b>▸ Research interests:</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;· Microbial ecology<br>
+&nbsp;&nbsp;&nbsp;&nbsp;· Theoretical modelling<br>
+&nbsp;&nbsp;&nbsp;&nbsp;· Thermodynamics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;· Bioenergetics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;· <i>In-silico</i> bottom-up method<br></p>
 
-<b>> Quick links:</b>
+<b>▸ Quick links:</b>
 - <img align="top" width="30" height="30" alt="Icon EcoSysEM" src="https://github.com/user-attachments/assets/101d3221-e9db-4ed7-a405-6337e671637f"/>&nbsp;&nbsp;[EcoSysEM](https://github.com/drmartinezrabert/EcoSysEM). Platform based on thermodynamics and bioenergetics for evaluating and modeling ecosystems.
 - <img align="top" width="30" height="30" alt="Logo" src="https://github.com/user-attachments/assets/35d5d8cb-778f-422c-b053-8644d67c34cd"/>&nbsp;&nbsp;[nOEN](https://github.com/drmartinezrabert/nOEN). Statistical platform to identify the ecological interactions (pairwise and higher-order).
 - <img align="top" width="30" height="30" alt="sci-hub log" src="https://github.com/user-attachments/assets/24ae48a8-5d18-4efe-b16d-10a8414f05af"/>&nbsp;&nbsp;[sci-hub_up](https://github.com/drmartinezrabert/sci-hub_up). Find active Sci-Hub domains.
