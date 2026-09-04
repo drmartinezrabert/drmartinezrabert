@@ -11,7 +11,7 @@ CNRS Research Associate (Postdoc) at Mediterranean Institute of Oceanography (MI
 &nbsp;&nbsp;&nbsp;&nbsp;· Theoretical modelling<br>
 &nbsp;&nbsp;&nbsp;&nbsp;· Thermodynamics<br>
 &nbsp;&nbsp;&nbsp;&nbsp;· Bioenergetics<br>
-&nbsp;&nbsp;&nbsp;&nbsp;· <i>In-silico</i> bottom-up method<br></p>
+&nbsp;&nbsp;&nbsp;&nbsp;· <i>In-silico</i> bottom-up methods<br></p>
 
 <b>▸ Quick links:</b><p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="top" width="30" height="30" alt="Icon EcoSysEM" src="https://github.com/user-attachments/assets/101d3221-e9db-4ed7-a405-6337e671637f"/>&nbsp;&nbsp;[EcoSysEM](https://github.com/drmartinezrabert/EcoSysEM) | Platform based on thermodynamics and bioenergetics for evaluating and modeling ecosystems.<p>
