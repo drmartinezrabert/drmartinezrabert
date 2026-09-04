@@ -1,6 +1,6 @@
 ## Hello, World! I'm Eloi (@drmartinezrabert)
 <p><b>Theoretical microbial ecologist</b><br>
-CNRS Research Associate (Postdoc) at Mediterranean Institute of Oceanography (MIO), Marseille</p>
+CNRS Research Associate (Postdoc) at Mediterranean Institute of Oceanography (MIO), Marseille, France</p>
 
 <p><img width="206" height="20" alt="download" src="https://github.com/user-attachments/assets/f6497ee0-799c-433d-958b-a575a5052749" />
 <svg xmlns="http://www.w3.org/2000/svg" width="206" height="20" role="img" aria-label="main languagues: Python, MATLAB"><filter id="blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="206" height="20" rx="3"/></clipPath></svg>
