@@ -13,7 +13,7 @@ CNRS Research Associate (Postdoc) at Mediterranean Institute of Oceanography (MI
 &nbsp;&nbsp;&nbsp;&nbsp;· Bioenergetics<br>
 &nbsp;&nbsp;&nbsp;&nbsp;· <i>In-silico</i> bottom-up methods<br></p>
 
-<b>▸ Quick links:</b><p>
+### ▸ Quick links:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="top" width="30" height="30" alt="Icon EcoSysEM" src="https://github.com/user-attachments/assets/101d3221-e9db-4ed7-a405-6337e671637f"/>&nbsp;&nbsp;[EcoSysEM](https://github.com/drmartinezrabert/EcoSysEM) | Platform based on thermodynamics and bioenergetics for evaluating and modeling ecosystems.<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="top" width="30" height="30" alt="Icon nOEN" src="https://github.com/user-attachments/assets/afdb9ed4-e5bc-47c4-8524-545bdb6e6225"/>&nbsp;&nbsp;[nOEN](https://github.com/drmartinezrabert/nOEN) | Statistical platform for the quantification of ecological interactions (pairwise and higher-order).<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="top" width="30" height="30" alt="sci-hub log" src="https://github.com/user-attachments/assets/24ae48a8-5d18-4efe-b16d-10a8414f05af"/>&nbsp;&nbsp;[sci-hub_up](https://github.com/drmartinezrabert/sci-hub_up) | Find active Sci-Hub domains.<p>
